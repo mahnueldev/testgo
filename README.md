@@ -30,7 +30,7 @@ The project follows a structured file system adhering to MVC principles, ensurin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/testgo.git
+    git clone https://github.com/mahnueldev/testgo.git
     ```
 
 2. Navigate to the project directory:
