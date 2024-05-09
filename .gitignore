@@ -1,0 +1,27 @@
+# Ignore temporary directory
+/tmp
+
+# Ignore database file
+testgo.db
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependency directories (remove the hash if using a dependency management tool)
+# /vendor/
+
+# Go specific
+# Binary files for any OS/Architecture
+bin/
+# Object files, cache, and test results
+*.test
+*.prof
+*.out
+*.log
